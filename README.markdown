@@ -1,27 +1,22 @@
 Gitblit
 =================
 
-Gitblit is an open source, pure Java Git solution for managing, viewing, and serving [Git](http://git-scm.com) repositories.  It can serve repositories over the GIT, HTTP, and SSH transports; it can authenticate against multiple providers; and it allows you to get up-and-running with an attractive, capable Git server in less than 5 minutes.
-
-More information about Gitblit can be found [here](http://gitblit.com).
+ان Gitblitهو حل بلغة جافا ومفتوح المصدر لادارة واستعراض وخدمة مستودعات جيت. ويمكنه القيام بذلك بخدمات النقل GITو HTTPو  SSH. ويمكنها ان تتحقق عبر اكثر من مزود. كما تمكنك من التعامل مع جيت في غضون 5 دقائق
+للمزيد من المعلومات عن Gitblit يمكن زيارة can (http://gitblit.com).
 
 <a href='https://bintray.com/gitblit/releases/gitblit/_latestVersion'><img src='https://api.bintray.com/packages/gitblit/releases/gitblit/images/download.png'></a>
-
-License
+الرخصة
 -------
 
-Gitblit is distributed under the terms of the [Apache Software Foundation license, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
-The text of the license is included in the file LICENSE in the root of the project.
-
-Java Runtime Requirement
+توزع Gitblitبرخصة اباتشي  [Apache Software Foundation license, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+ونص الرخصة مضمن في ملف LICENSEبالمشروع.متطلبات جافا وقت التنفيذ
 ------------------------------------
 
-Gitblit requires at Java 7 Runtime Environment (JRE) or a Java 7 Development Kit (JDK).
-
-Getting help
+يتطلب Gitblitعلي الاقل  بيئة جافا 7لوقت التنفيذ (JRE) او حزمة تطوير جافا 7 r a Java (JDK).
+للمساعدة
 ------------
 
-| Source        | Location                                               |
+|المصدر .         |
 | ------------- |--------------------------------------------------------|
 | Documentation | [Gitblit website](http://gitblit.com)                  |
 | Forums        | [Google Groups](https://groups.google.com/forum/#!forum/gitblit) |
